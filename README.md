@@ -5,6 +5,8 @@ In this assignment, let's build a My Projects Page by applying the concepts we l
 
 Desired Output: -
 
+[▶ Watch the demo](https://github.com/quriousCoder3953/My-Projects-Page-Coding-Practice-13-SW-GC1-CCBP-NxtWave/blob/main/media/my-projects-page-cp13-sw-gc1.mp4)
+
 
 
 Check Output Here: -
